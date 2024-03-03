@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604745751261",
+    "project_id": "bookapp-56b52",
+    "storage_bucket": "bookapp-56b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604745751261:android:bc7c2f6d95119edb099934",
+        "android_client_info": {
+          "package_name": "br.com.andreantonio.book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDBw7GO46mhTNMkU5wiuzwZvZnR-9ws4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
